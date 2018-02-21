@@ -30,6 +30,9 @@
     },
     "/dashboard": {
       "url": "/statusboard"
+    },
+    "/guides": {
+      "url": "https://guides.emberjs.com/"
     }
   }
 }

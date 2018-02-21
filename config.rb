@@ -58,8 +58,6 @@ page '/blog/feed.xml', layout: false
 # Pages
 ###
 
-page 'guides*', layout: :guide
-
 page 'community.html'
 
 page 'index.html', proxy: 'about.html'
