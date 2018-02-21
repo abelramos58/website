@@ -33,6 +33,9 @@
     },
     "/guides": {
       "url": "https://guides.emberjs.com/"
+    },
+    "/guides/": {
+      "url": "https://guides.emberjs.com/"
     }
   }
 }
